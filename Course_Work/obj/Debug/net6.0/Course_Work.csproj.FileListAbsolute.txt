@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Course_Work\Course_Work\bin\Debug\net6.0\Course_Work.exe
+C:\Users\User\source\repos\Course_Work\Course_Work\bin\Debug\net6.0\Course_Work.deps.json
+C:\Users\User\source\repos\Course_Work\Course_Work\bin\Debug\net6.0\Course_Work.runtimeconfig.json
+C:\Users\User\source\repos\Course_Work\Course_Work\bin\Debug\net6.0\Course_Work.dll
+C:\Users\User\source\repos\Course_Work\Course_Work\bin\Debug\net6.0\Course_Work.pdb
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.AssemblyInfo.cs
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.dll
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\refint\Course_Work.dll
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.pdb
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\Course_Work.genruntimeconfig.cache
+C:\Users\User\source\repos\Course_Work\Course_Work\obj\Debug\net6.0\ref\Course_Work.dll
